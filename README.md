@@ -13,6 +13,8 @@
   <a href="https://miil.korea.ac.kr/">Paul Hongsuck Seo</a>
 </p>
 
+<p align="center">🎉 <b>Accepted to ACL 2026 Findings!</b></p>
+
 **GOAT** is a training framework that fine-tunes LLM agents for goal-oriented tool use
 **without human annotation**. It automatically synthesizes goal-oriented API-execution data
 from API documents through a *call-first* generation paradigm — constructing training data
@@ -58,6 +60,10 @@ See the per-component READMEs for the full pipeline order:
 
 - [`data_generation/README.md`](data_generation/README.md)
 - [`model/README.md`](model/README.md)
+
+## License
+
+This project is released under the [MIT License](LICENSE).
 
 ## Citation
 
