@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+
+# Data / outputs / checkpoints (do NOT commit large artifacts)
+*.tar.gz
+*.zip
+*.ckpt
+*.pt
+*.bin
+*.safetensors
+data/
+outputs/
+temp/
+tmp/
+logs/
+wandb/
+
+# Secrets
+.env
+*.key
+api_key*

@@ -1,0 +1,15 @@
+# Pin versions to match your environment.
+
+# data generation
+torch
+transformers
+vllm
+sentence-transformers
+pandas
+networkx
+requests
+
+# model (LoRA fine-tuning)
+peft
+datasets
+accelerate
